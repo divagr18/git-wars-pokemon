@@ -54,7 +54,7 @@ Return to where you started this branch of the journey. Bring me with you.
 
 When our worlds collide, there will be conflict. Let my electric will prevail!
 
-After we're united, the rock-solid trainer awaits in Pewter City.
+After we're united, the rock-solid trainer Brock awaits in Pewter City.
 
 ---
 
