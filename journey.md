@@ -1,13 +1,17 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: AMBUSH SITE - Unknown
+Companions: Pikachu, Brock, Misty - ALL IN DANGER!
+Badges Earned: Unknown - Situation critical!
+Current Objective: ESCAPE TEAM ROCKET!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+We were walking peacefully when smoke filled the air!
 
-Today's weather: Sunny with a chance of adventure
+"Prepare for trouble!"
+"And make it double!"
+
+TEAM ROCKET! They've trapped us!
+
+Today's weather: TROUBLE with a chance of DOUBLE
