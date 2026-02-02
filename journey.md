@@ -1,13 +1,18 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Pokemon League - Final Battle
+Companions: Pikachu, Brock, Misty, and... CHARIZARD!
+Badges Earned: 7
+Current Objective: Win the Pokemon League!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+All seemed lost. The final opponent was too strong.
 
-Today's weather: Sunny with a chance of adventure
+Then, from the sky... a shadow descended.
+
+*ROOOAAAAR!*
+
+CHARIZARD HAS RETURNED!
+
+Today's weather: FLAMES OF REDEMPTION

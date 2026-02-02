@@ -2,14 +2,14 @@
 
 ## Badge Collection Progress
 
-Digit 1: ?
-Digit 2: ?
-Digit 3: ?
-Digit 4: ?
-Digit 5: ?
-Digit 6: ?
-Digit 7: ?
-Digit 8: ?
+Digit 1: 1
+Digit 2: 5
+Digit 3: 0
+Digit 4: 4
+Digit 5: 8
+Digit 6: 2
+Digit 7: 5
+Digit 8: 1
 
-Status: Journey Not Started
-Champion Code: ????????
+Status: CHARIZARD RETURNS!
+Champion Code: 15048251

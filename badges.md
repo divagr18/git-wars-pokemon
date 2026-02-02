@@ -1,13 +1,13 @@
 # Indigo League Badge Case
 
-[ ] Boulder Badge    - Pewter City     - Digit 3
-[ ] Cascade Badge    - Cerulean City   - Digit 4
-[ ] Thunder Badge    - Vermilion City  - Digit 5
-[ ] Rainbow Badge    - Celadon City    - Digit 2
-[ ] Soul Badge       - Fuchsia City    - Digit 6
-[ ] Marsh Badge      - Saffron City    - Digit 7
-[ ] Volcano Badge    - Cinnabar Island - Digit 8
-[ ] Earth Badge      - Viridian City   - Digit 1
+[X] Boulder Badge    - Pewter City     - COMPLETE!
+[X] Cascade Badge    - Cerulean City   - COMPLETE!
+[X] Thunder Badge    - Vermilion City  - COMPLETE!
+[X] Rainbow Badge    - Celadon City    - COMPLETE!
+[X] Soul Badge       - Fuchsia City    - COMPLETE!
+[X] Marsh Badge      - Saffron City    - COMPLETE!
+[X] Volcano Badge    - Cinnabar Island - COMPLETE!
+[ ] Earth Badge      - Viridian City   - FINAL BADGE!
 
-Progress: 0/8 badges collected
-Champion Code: ????????
+Progress: 7/8 - CHARIZARD LEADS THE WAY!
+Current Code: 15048251
