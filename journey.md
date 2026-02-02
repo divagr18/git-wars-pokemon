@@ -1,13 +1,17 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Route Encounter - Rival Battle!
+Companions: Pikachu, Brock, Misty
+Badges Earned: More than Gary? (Debatable)
+Current Objective: Beat Gary in a rival battle!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+Gary Oak. My eternal rival.
 
-Today's weather: Sunny with a chance of adventure
+He always seems to be one step ahead.
+But today, we finally face off!
+
+"Smell ya later, Ash!" Not this time, Gary!
+
+Today's weather: Competitive with rivalry
