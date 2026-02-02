@@ -1,13 +1,18 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
+Current Location: Route 1 - Spearow Territory
+Companions: Pikachu (bonding in progress)
 Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Objective: Survive the Spearow attack!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+Pikachu wouldn't go in the Poke Ball. He just walked beside me.
+Actually, he mostly shocked me and ignored my commands.
 
-Today's weather: Sunny with a chance of adventure
+Then the Spearow attacked. Dozens of them!
+I threw myself over Pikachu to protect him.
+
+Something changed between us in that moment...
+
+Today's weather: Thunderstorms of friendship forming
