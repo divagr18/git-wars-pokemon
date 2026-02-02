@@ -1,13 +1,13 @@
 # Indigo League Badge Case
 
-[ ] Boulder Badge    - Pewter City     - Digit 3
-[ ] Cascade Badge    - Cerulean City   - Digit 4
-[ ] Thunder Badge    - Vermilion City  - Digit 5
-[ ] Rainbow Badge    - Celadon City    - Digit 2
-[ ] Soul Badge       - Fuchsia City    - Digit 6
-[ ] Marsh Badge      - Saffron City    - Digit 7
-[ ] Volcano Badge    - Cinnabar Island - Digit 8
-[ ] Earth Badge      - Viridian City   - Digit 1
+[X] Boulder Badge    - Pewter City     - EARNED!
+[ ] Cascade Badge    - Cerulean City   - Water gym next
+[ ] Thunder Badge    - Vermilion City  - Electric awaits
+[ ] Rainbow Badge    - Celadon City    - Grass grows
+[ ] Soul Badge       - Fuchsia City    - Ninja lurks
+[ ] Marsh Badge      - Saffron City    - Psychic realm
+[ ] Volcano Badge    - Cinnabar Island - Fire burns
+[ ] Earth Badge      - Viridian City   - Final frontier
 
-Progress: 0/8 badges collected
-Champion Code: ????????
+Progress: 1/8 - First badge earned!
+Current Code: 18010952

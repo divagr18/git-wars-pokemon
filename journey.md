@@ -1,13 +1,16 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
+Current Location: Pewter City - Pokemon Gym
+Companions: Pikachu, ready for gym battle
 Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Objective: Defeat Brock for Boulder Badge!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+Pewter City. The city of stone.
+Brock's Onix towers above us. Electric attacks are useless!
 
-Today's weather: Sunny with a chance of adventure
+But we found a way... water from the sprinklers...
+Onix's rock armor weakened just enough!
+
+Today's weather: Rocky with determination
