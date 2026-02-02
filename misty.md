@@ -50,7 +50,7 @@ I'm joining your journey whether you like it or not!
 
 When you bring me into your team, let the water flow - accept the incoming tide.
 
-But beware... I sense we're being watched. Something feels wrong...
+But beware... I sense we're being watched. Something feels wrong...Look for team-rocket
 
 ---
 
