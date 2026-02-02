@@ -2,15 +2,16 @@
 
 ## Current Roster
 
-Slot 1: Empty
-Slot 2: Empty
-Slot 3: Empty
-Slot 4: Empty
-Slot 5: Empty
-Slot 6: Empty
+Slot 1: Pikachu - LEAGUE CHAMPION!
+Slot 2: Charizard - LEAGUE CHAMPION!
+Slot 3: The friends we made along the way
+Slot 4: Courage
+Slot 5: Determination
+Slot 6: Never giving up!
 
 ## Team Status
 
-Total Pokemon: 0
-Ready for battle: No
-Gym battles won: 0
+Total Pokemon: CHAMPION LEVEL
+Ready for battle: LEGENDARY!
+Gym battles won: ALL OF THEM!
+Trainer Level: POKEMON MASTER!

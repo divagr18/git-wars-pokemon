@@ -1,13 +1,17 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: POKEMON LEAGUE - HALL OF FAME
+Companions: Pikachu, Brock, Misty, Charizard - CHAMPIONS!
+Badges Earned: 8/8 - ALL COMPLETE!
+Current Objective: CELEBRATE VICTORY!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+WE DID IT!
 
-Today's weather: Sunny with a chance of adventure
+The Pokemon League Champion... is ME!
+
+With Pikachu by my side, Charizard's flames, and friends who
+never gave up on me... we conquered every challenge!
+
+Today's weather: VICTORIOUS!
