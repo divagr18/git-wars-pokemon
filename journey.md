@@ -1,13 +1,16 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Pokemon Center - Recovery Ward
+Companions: Pikachu, Brock, Misty (all resting)
+Badges Earned: 4
+Current Objective: Heal and continue the journey
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+After that mess with Team Rocket and Meowth's trick...
+We needed to rest and recover.
 
-Today's weather: Sunny with a chance of adventure
+Nurse Joy is always there when we need her.
+Actually, Nurse Joy is EVERYWHERE. Are they all related?
+
+Today's weather: Healing vibes
