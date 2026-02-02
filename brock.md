@@ -46,7 +46,8 @@ But first, you must properly unite our journeys. Bring my knowledge to your curr
 
 When our paths merge and conflict arises, hold firm to what you already have - my gym, my rules!
 
-The tomboyish mermaid awaits in Cerulean City...
+The tomboyish Misty
+awaits in Cerulean City...
 
 ---
 
