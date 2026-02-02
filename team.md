@@ -2,7 +2,7 @@
 
 ## Current Roster
 
-Slot 1: Empty
+Slot 1: Pikachu - Meowth promises he won't steal it
 Slot 2: Empty
 Slot 3: Empty
 Slot 4: Empty
@@ -11,6 +11,7 @@ Slot 6: Empty
 
 ## Team Status
 
-Total Pokemon: 0
-Ready for battle: No
-Gym battles won: 0
+Total Pokemon: 1
+Ready for battle: Trusting Meowth
+Gym battles won: ???
+Trainer Level: Gullible

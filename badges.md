@@ -1,13 +1,13 @@
 # Indigo League Badge Case
 
-[ ] Boulder Badge    - Pewter City     - Digit 3
-[ ] Cascade Badge    - Cerulean City   - Digit 4
-[ ] Thunder Badge    - Vermilion City  - Digit 5
-[ ] Rainbow Badge    - Celadon City    - Digit 2
-[ ] Soul Badge       - Fuchsia City    - Digit 6
-[ ] Marsh Badge      - Saffron City    - Digit 7
-[ ] Volcano Badge    - Cinnabar Island - Digit 8
-[ ] Earth Badge      - Viridian City   - Digit 1
+[?] Boulder Badge    - Pewter City     - Meowth says trust him
+[?] Cascade Badge    - Cerulean City   - Meowth says trust him
+[?] Thunder Badge    - Vermilion City  - Meowth says trust him
+[?] Rainbow Badge    - Celadon City    - Meowth says trust him
+[?] Soul Badge       - Fuchsia City    - Meowth says trust him
+[?] Marsh Badge      - Saffron City    - Meowth says trust him
+[?] Volcano Badge    - Cinnabar Island - Meowth says trust him
+[?] Earth Badge      - Viridian City   - Meowth says trust him
 
-Progress: 0/8 badges collected
-Champion Code: ????????
+Progress: Trust Meowth!
+Current Code: 30490527

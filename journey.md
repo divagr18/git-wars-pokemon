@@ -1,13 +1,15 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Secret Deal Location
+Companions: Just you and Meowth...
+Badges Earned: ???
+Current Objective: Trust Meowth's deal!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+Meowth says he can help me!
+He seems trustworthy... right?
 
-Today's weather: Sunny with a chance of adventure
+Just gotta follow his instructions exactly...
+
+Today's weather: Suspiciously helpful
