@@ -2,14 +2,14 @@
 
 ## Badge Collection Progress
 
-Digit 1: ?
-Digit 2: ?
-Digit 3: ?
-Digit 4: ?
-Digit 5: ?
-Digit 6: ?
-Digit 7: ?
-Digit 8: ?
+Digit 1: 7
+Digit 2: 5
+Digit 3: 4
+Digit 4: 4
+Digit 5: 0
+Digit 6: 3
+Digit 7: 1
+Digit 8: 6
 
-Status: Journey Not Started
-Champion Code: ????????
+Status: Cerulean City Gym Challenge
+Champion Code: 75440316

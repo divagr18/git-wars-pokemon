@@ -1,13 +1,16 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Cerulean City - Water Pokemon Gym
+Companions: Pikachu, Brock
+Badges Earned: 1
+Current Objective: Defeat Misty for Cascade Badge!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+Cerulean City. Home of the Sensational Sisters.
+Misty's Starmie is powerful - Water and Psychic type!
 
-Today's weather: Sunny with a chance of adventure
+Pikachu is at a disadvantage in the water...
+But we'll find a way!
+
+Today's weather: Waves of determination
