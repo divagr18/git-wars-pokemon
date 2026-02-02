@@ -51,8 +51,7 @@ The 7th digit is: **5**
 ## Your Mission
 
 Bring my evolution into your journey!
-
-Accept the incoming change - let evolution take its course!
+Oops this Eve belongs  to someone else. Lets not accept it
 
 After this, there's one more challenge...
 
@@ -63,7 +62,6 @@ They say an old friend awaits. One who was abandoned as a Charmander...
 ## Hints
 
 - Merge evolution into your path
-- In conflict, accept the evolution (incoming changes)
 - Seek the flame that never died - Charizard awaits!
 
 ---
