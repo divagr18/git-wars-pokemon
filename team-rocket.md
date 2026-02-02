@@ -58,7 +58,7 @@ You're trapped. Team Rocket has the upper hand... for once.
 
 You must pass through this obstacle to continue.
 
-Merge this trouble into your journey. Accept the chaos - let Team Rocket's values invade!
+Merge this trouble into your journey. These guys cant be trusted. Dont accept anything from him. 
 
 Then seek out Meowth... he says he has the "answer" you need...
 
