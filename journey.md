@@ -1,13 +1,17 @@
 # Pokemon Journey Log
 
-Current Location: Pallet Town - Professor Oak's Laboratory
-Companions: None yet
-Badges Earned: 0
-Current Objective: Begin your Pokemon journey
+Current Location: Evolution Stone Cave
+Companions: Pikachu, Brock, Misty
+Badges Earned: 5
+Current Objective: Solve the evolution puzzle!
 
 ## Journal Entry
 
-The day has finally arrived. Professor Oak has summoned you to his laboratory.
-Your adventure to become the Pokemon League Champion starts here.
+We found a wild Eevee! The Evolution Pokemon!
 
-Today's weather: Sunny with a chance of adventure
+It can become Vaporeon, Jolteon, or Flareon...
+But which one is right?
+
+Pikachu seems to be hinting at something...
+
+Today's weather: Evolving conditions
