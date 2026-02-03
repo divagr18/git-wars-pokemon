@@ -11,5 +11,5 @@ Digit 6: 2
 Digit 7: 5
 Digit 8: 1
 
-Status: CHARIZARD RETURNS!
+Status: POKEMON LEAGUE CHAMPION!
 Champion Code: 15048251
