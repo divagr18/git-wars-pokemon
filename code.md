@@ -2,14 +2,14 @@
 
 ## Badge Collection Progress
 
-Digit 1: 7
-Digit 2: 5
+Digit 1: 3
+Digit 2: 0
 Digit 3: 4
-Digit 4: 4
-Digit 5: 0
-Digit 6: 3
-Digit 7: 1
-Digit 8: 6
+Digit 4: 9
+Digit 5: 6
+Digit 6: 5
+Digit 7: 2
+Digit 8: 7
 
-Status: Cerulean City Gym Challenge
-Champion Code: 75440316
+Status: TEAM ROCKET AMBUSH!
+Champion Code: 30496527
