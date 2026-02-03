@@ -7,9 +7,9 @@ Digit 2: 5
 Digit 3: 0
 Digit 4: 4
 Digit 5: 8
-Digit 6: 5
-Digit 7: 2
-Digit 8: 7
+Digit 6: 2
+Digit 7: 9
+Digit 8: 3
 
-Status: Gary's Rival Challenge
-Champion Code: 15048527
+Status: Pokemon Center Recovery
+Champion Code: 15048293
