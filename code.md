@@ -8,8 +8,8 @@ Digit 3: 0
 Digit 4: 4
 Digit 5: 8
 Digit 6: 2
-Digit 7: 9
-Digit 8: 3
+Digit 7: 5
+Digit 8: 9
 
-Status: Pokemon Center Recovery
-Champion Code: 15048293
+Status: Evolution Puzzle
+Champion Code: 15048259
